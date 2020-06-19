@@ -1,0 +1,2 @@
+C:\Users\lakei\source\repos\RPS2\RPS2\obj\Debug\RPS2.csprojAssemblyReference.cache
+C:\Users\lakei\source\repos\RPS2\RPS2\obj\Debug\RPS2.csproj.CoreCompileInputs.cache

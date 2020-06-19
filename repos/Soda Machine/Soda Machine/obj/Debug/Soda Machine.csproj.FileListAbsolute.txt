@@ -1,0 +1,6 @@
+C:\Users\lakei\source\repos\Soda Machine\Soda Machine\obj\Debug\Soda Machine.csproj.CoreCompileInputs.cache
+C:\Users\lakei\source\repos\Soda Machine\Soda Machine\bin\Debug\Soda Machine.exe.config
+C:\Users\lakei\source\repos\Soda Machine\Soda Machine\bin\Debug\Soda Machine.exe
+C:\Users\lakei\source\repos\Soda Machine\Soda Machine\bin\Debug\Soda Machine.pdb
+C:\Users\lakei\source\repos\Soda Machine\Soda Machine\obj\Debug\Soda Machine.exe
+C:\Users\lakei\source\repos\Soda Machine\Soda Machine\obj\Debug\Soda Machine.pdb
